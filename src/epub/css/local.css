@@ -5,6 +5,10 @@ q{
 	font-style: italic;
 }
 
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
+
 [epub|type~="z3998:hymn"] p{
 	text-align: initial;
 	text-indent: 0;
