@@ -38,14 +38,14 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A celebrated young poet commits a spontaneous act of violence and tries to deal with the consequences.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In west London on the bank of the Thames lies a well-heeled but down to earth street. The residents are all accomplished in their own ways, but the shining star that dominates their attention is Stephen Byrne, the war poet. Stephen isn’t the perfect specimen that they imagine him to be, though: a spontaneous assault on his new maid leads to her death, and sets his life, and that of his friend John Egerton, on a dangerously out of control path.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The House by the River&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/a-p-herbert"&gt;&lt;abbr&gt;A. P.&lt;/abbr&gt; Herbert’s&lt;/a&gt; second novel, following the success of &lt;i&gt;The Secret Battle&lt;/i&gt;, and it was here that he began to develop—despite the subject matter—his trademark wit. The novel is perhaps best known these days as the rough source material for Fritz Lang’s film &lt;i&gt;House by the River&lt;/i&gt;, released in 1950.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/41791</dc:source>
 		<dc:source>https://archive.org/details/housebyriver00herbiala/</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_House_by_the_River</meta>
@@ -69,7 +69,7 @@
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net/</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
